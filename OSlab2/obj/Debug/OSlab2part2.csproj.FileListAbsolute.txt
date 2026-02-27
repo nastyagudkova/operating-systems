@@ -1,0 +1,11 @@
+C:\Users\nasty\Desktop\kak\OSlab2part2\bin\Debug\OSlab2part2.exe.config
+C:\Users\nasty\Desktop\kak\OSlab2part2\bin\Debug\OSlab2part2.exe
+C:\Users\nasty\Desktop\kak\OSlab2part2\bin\Debug\OSlab2part2.pdb
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.csproj.AssemblyReference.cache
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.Form1.resources
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.Properties.Resources.resources
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.csproj.GenerateResource.cache
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.csproj.CoreCompileInputs.cache
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.exe
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.pdb
+C:\Users\nasty\Desktop\kak\OSlab2part2\obj\Debug\OSlab2part2.exe.config
