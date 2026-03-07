@@ -1,0 +1,11 @@
+C:\Users\nasty\source\repos\OSlab3\bin\Debug\OSlab3.exe.config
+C:\Users\nasty\source\repos\OSlab3\bin\Debug\OSlab3.exe
+C:\Users\nasty\source\repos\OSlab3\bin\Debug\OSlab3.pdb
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.csproj.AssemblyReference.cache
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.Form1.resources
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.Properties.Resources.resources
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.csproj.GenerateResource.cache
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.csproj.CoreCompileInputs.cache
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.exe
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.pdb
+C:\Users\nasty\source\repos\OSlab3\obj\Debug\OSlab3.exe.config
