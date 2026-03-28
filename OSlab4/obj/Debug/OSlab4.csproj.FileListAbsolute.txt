@@ -1,0 +1,11 @@
+C:\Users\nasty\source\repos\OSlab4\bin\Debug\OSlab4.exe.config
+C:\Users\nasty\source\repos\OSlab4\bin\Debug\OSlab4.exe
+C:\Users\nasty\source\repos\OSlab4\bin\Debug\OSlab4.pdb
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.csproj.AssemblyReference.cache
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.Form1.resources
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.Properties.Resources.resources
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.csproj.GenerateResource.cache
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.csproj.CoreCompileInputs.cache
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.exe
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.pdb
+C:\Users\nasty\source\repos\OSlab4\obj\Debug\OSlab4.exe.config
